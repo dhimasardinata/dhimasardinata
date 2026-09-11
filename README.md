@@ -60,8 +60,8 @@ integration, connectivity, deployment, plus field validation with documented fin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhimasardinata&show_icons=true&theme=dark&hide_border=true&bg_color=0f1a13&title_color=eaf3ed&icon_color=4ade80" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasardinata&layout=compact&theme=dark&hide_border=true&bg_color=0f1a13&title_color=eaf3ed" alt="Top languages" height="165" />
+![Followers](https://img.shields.io/github/followers/dhimasardinata?style=for-the-badge&logo=github&label=Followers&color=1d6547)
+![Total Stars](https://img.shields.io/github/stars/dhimasardinata?style=for-the-badge&logo=github&label=Total%20Stars&color=1d6547)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6547,100:0f1a13&height=120&section=footer" alt="footer" width="100%" />
 
