@@ -40,13 +40,14 @@ integration, connectivity, deployment, plus field validation with documented fin
 | [arc](https://github.com/dhimasardinata/arc) | Deterministic ESP32-S3 firmware substrate on ESP-IDF |
 | [eaws](https://github.com/dhimasardinata/eaws) | Async HTTP/WebSocket/SSE server for the ESP8266/ESP32 family |
 | [AetherIoT](https://github.com/dhimasardinata/AetherIoT) | C++20 zero-heap industrial IoT framework for Espressif silicon |
-| [ESP32-Greenhouse-Controller](https://github.com/dhimasardinata/ESP32-Greenhouse-Controller) | Field greenhouse controller: relay/SSR control, thresholds, schedules, OTA |
+| [ESP32-Greenhouse-Controller](https://github.com/dhimasardinata/ESP32-Greenhouse-Controller) | Field greenhouse gateway: store-and-forward caching, relay/SSR control, WebSocket diagnostics, OTA |
 | [esp8266-sensor-node](https://github.com/dhimasardinata/esp8266-sensor-node) | Greenhouse sensor node: Wi-Fi telemetry upload, web dashboard, OTA |
 | [caxe](https://github.com/dhimasardinata/caxe) | Modern C/C++ project manager that cuts through build-system complexity |
 
 ## Background
 
-- **S.Tr.T., Telecommunication Engineering**, Politeknik Negeri Semarang (GPA 3.80/4.00)
+- **S.Tr.T., Telecommunication Engineering**, Politeknik Negeri Semarang (GPA 3.80/4.00) — graduated Aug 2026
+- **Field proof:** store-and-forward caching cut greenhouse telemetry loss from ~51–53% to ~12–19% (10 nodes, Feb–Mar 2026)
 - **Hardware Development / IoT Engineer Intern**, CV. OmahIoT (Jan to Jul 2025)
 - **IMONIK research contribution**, Polines x OmahIoT joint research on industrial hydroponics (2026)
 
